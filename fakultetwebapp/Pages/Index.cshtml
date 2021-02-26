@@ -1,0 +1,49 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<h2> Fakulteti </h2>
+
+<a asp-page="./DodajFakultet">Dodaj Fakultet </a>
+
+@if(Model.Fakulteti.Count!=0){
+
+    @foreach(var fakulteti in @Model.Fakulteti){
+        <label>Fakultet :@fakulteti.NazivFaksa </label>
+
+        <form method="post">
+        <a asp-page="./DodajStudenta" asp-route-id ="@fakulteti.Id" >Dodaj Studenta </a>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Indeks</th>
+                    <th>Ime </th>
+                    <th>Prezime</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                
+            @foreach(var student in fakulteti.Studenti ){
+                <tr>
+                    <td>@student.Indeks</td>
+                    <td>@student.Ime</td>
+                    <td>@student.Prezime</td>
+                    <td><button type="submit" asp-route-id="@student.Id" asp-page-handler="Povecaj">+ </button></td>
+                    <td><button type="submit" asp-route-id="@student.Id" asp-page-handler="Obrisi"> Obrisi </button></td>
+                    <td><a asp-page="./IzmeniStudenta" asp-route-id="@student.Id">Izmeni</a> </td>
+                </tr>
+            }
+            </tbody>
+       
+        
+        </table> 
+        
+        </form>
+
+    }
+}
+
+
+

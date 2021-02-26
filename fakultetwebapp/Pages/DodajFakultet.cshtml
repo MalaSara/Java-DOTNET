@@ -1,0 +1,12 @@
+﻿@page
+@model MyApp.Namespace.DodajFakultetModel
+@{
+}
+
+<form method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <label> Ime Fakulteta: </label>
+    <input asp-for="Fakultet.NazivFaksa">
+    <input type="submit" value="Sacuvaj">
+
+</form>   

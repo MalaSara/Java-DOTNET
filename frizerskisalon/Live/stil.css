@@ -1,0 +1,43 @@
+
+.sve{
+    display: flex;
+
+}
+.forma{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid purple;
+}
+.radnici{
+
+    display: flex;
+    flex-grow: 2;
+    justify-content:space-evenly;
+    align-items: center;
+    border:2px solid lightpink;
+}
+.ter{
+    width: 150px;
+    text-align: center;
+}
+.sisanje{
+    background-color: blue;
+    
+}
+.feniranje{
+    background-color: gold;
+}
+.farbanje{
+    background-color: red;
+}
+.pletenica{
+    background-color: hotpink;
+}
+.lokne{
+    background-color: indigo;
+}
+.radnik{
+    display:flex;
+    flex-direction: column;
+}
+

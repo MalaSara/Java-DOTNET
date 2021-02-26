@@ -1,0 +1,80 @@
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\appsettings.json
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\frizerskisalon.exe
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\frizerskisalon.deps.json
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\frizerskisalon.runtimeconfig.json
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\frizerskisalon.runtimeconfig.dev.json
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\frizerskisalon.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\frizerskisalon.pdb
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\obj\Debug\netcoreapp3.1\frizerskisalon.csprojAssemblyReference.cache
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\obj\Debug\netcoreapp3.1\frizerskisalon.AssemblyInfoInputs.cache
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\obj\Debug\netcoreapp3.1\frizerskisalon.AssemblyInfo.cs
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\obj\Debug\netcoreapp3.1\frizerskisalon.csproj.CoreCompileInputs.cache
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\obj\Debug\netcoreapp3.1\frizerskisalon.MvcApplicationPartsAssemblyInfo.cache
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\obj\Debug\netcoreapp3.1\frizerskisalon.RazorTargetAssemblyInfo.cache
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\obj\Debug\netcoreapp3.1\frizerskisalon.csproj.CopyComplete
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\obj\Debug\netcoreapp3.1\staticwebassets\frizerskisalon.StaticWebAssets.Manifest.cache
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\obj\Debug\netcoreapp3.1\staticwebassets\frizerskisalon.StaticWebAssets.xml
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\obj\Debug\netcoreapp3.1\frizerskisalon.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\obj\Debug\netcoreapp3.1\frizerskisalon.pdb
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\frizerskisalon\obj\Debug\netcoreapp3.1\frizerskisalon.genruntimeconfig.cache
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\appsettings.json
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\frizerskisalon.exe
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\frizerskisalon.deps.json
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\frizerskisalon.runtimeconfig.json
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\frizerskisalon.runtimeconfig.dev.json
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\frizerskisalon.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\frizerskisalon.pdb
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\obj\Debug\netcoreapp3.1\frizerskisalon.csprojAssemblyReference.cache
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\obj\Debug\netcoreapp3.1\frizerskisalon.AssemblyInfoInputs.cache
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\obj\Debug\netcoreapp3.1\frizerskisalon.AssemblyInfo.cs
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\obj\Debug\netcoreapp3.1\frizerskisalon.csproj.CoreCompileInputs.cache
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\obj\Debug\netcoreapp3.1\frizerskisalon.MvcApplicationPartsAssemblyInfo.cache
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\obj\Debug\netcoreapp3.1\frizerskisalon.RazorTargetAssemblyInfo.cache
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\obj\Debug\netcoreapp3.1\frizerskisalon.csproj.CopyComplete
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\obj\Debug\netcoreapp3.1\staticwebassets\frizerskisalon.StaticWebAssets.Manifest.cache
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\obj\Debug\netcoreapp3.1\staticwebassets\frizerskisalon.StaticWebAssets.xml
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\obj\Debug\netcoreapp3.1\frizerskisalon.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\obj\Debug\netcoreapp3.1\frizerskisalon.pdb
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\frizerskisalon\obj\Debug\netcoreapp3.1\frizerskisalon.genruntimeconfig.cache

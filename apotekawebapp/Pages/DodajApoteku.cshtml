@@ -1,0 +1,12 @@
+﻿@page
+@model MyApp.Namespace.DodajApotekuModel
+@{
+}
+
+<form>
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <label>Ime apoteke: </label>
+    <input asp-for="Apoteka.NazivApoteke">
+    <input type="submit" value="Dodaj">
+    
+</form>

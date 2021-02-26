@@ -1,0 +1,31 @@
+.forma{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    text-align: center;
+}
+
+.infoig{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.sve{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.rez1, .rez2, .poeni1, .poeni2{
+    width:30px;
+}
+
+.dugme{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.divnizpoenadosad{
+    display: flex;
+}

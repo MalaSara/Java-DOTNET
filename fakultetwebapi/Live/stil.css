@@ -1,0 +1,53 @@
+.sve{
+    display: flex;
+    flex-direction: row;
+    height: 200px;
+    border: 15px pink solid;
+}
+.forma{
+    position: absolute;
+    right: 0px;
+    border: 10px pink solid;
+    height: 200px;
+}
+
+
+.student{
+    display: flex;
+}
+.studenti{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    
+}
+.predmeti
+{
+    display: flex;
+    position: absolute;
+    left:100px;
+}
+
+.predmet{
+    width:15px;
+
+}
+
+.predmetpostoji{
+    width:100px;
+}
+
+.elektronika{
+    background-color:yellow;
+}
+
+.web{
+    background-color: tomato;
+}
+
+.mreze{
+    background-color: royalblue;
+}
+.miks{
+    background-color: springgreen;
+}

@@ -1,0 +1,33 @@
+.forma{
+    display: flex;
+    flex-direction: column;
+    width:150px;
+    border: 1px solid black;
+    background-color: yellow;
+}
+
+.container{
+    display: flex;
+}
+.divpolice{
+    display: flex;
+    flex-direction: column;
+}
+.polica{
+    display:flex;
+
+}
+.sveknjige{
+    width:100px;
+    border: 1px solid black;
+    display: flex;
+    
+}
+.ime{
+    width:150px;
+}
+.knjiga{
+    background-color: green;
+    border: 1px solid black;
+    width: 10px;;
+}

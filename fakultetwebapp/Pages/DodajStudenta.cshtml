@@ -1,0 +1,17 @@
+﻿@page
+@model MyApp.Namespace.DodajStudentaModel
+@{
+}
+
+<p> Student za dodavanje :</p>
+<form method="post">
+    <input type="hidden" asp-for=@Model.faksid>
+    <div asp-validation-summary="All" class="danger"></div>
+
+    <div>Indeks: <input asp-for="student.Indeks" /></div>
+    <div>Ime: <input asp-for="student.Ime" /></div>
+    <div>Prezime: <input asp-for="student.Prezime" /></div>
+
+    <button type="submit">Dodaj</button>
+
+</form>

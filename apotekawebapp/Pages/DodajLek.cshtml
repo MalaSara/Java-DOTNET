@@ -1,0 +1,19 @@
+﻿@page
+@model MyApp.Namespace.DodajLekModel
+@{
+}
+
+<p> Lek za dodavanje:</p>
+<form method="post">
+    <input type="hidden" asp-for=@Model.apotekaid>
+
+    <div>Reg broj: <input asp-for="lek.RegBroj"></div>
+    <div>Naziv leka: <input asp-for="lek.NazivLeka"></div>
+    <div>Cena: <input asp-for="lek.Cena"></div>
+    <div>Kolicina:  <input asp-for="lek.Kolicina"></div>
+
+    <button type="submit">Dodaj</button>
+
+
+</form>
+

@@ -1,0 +1,28 @@
+.forma{
+    width:200px;
+    display: flex;
+    flex-direction: column;
+
+    border:2px solid blue;
+}
+
+.kap{
+    width:50px;
+    background-color: blue;
+}
+
+.telosilosa{
+   
+    height: 100px;
+    width:100px;
+    border:2px solid black;
+}
+.silosi{
+    
+    display: flex;
+    flex-direction: row;
+    flex-grow: 2;
+
+    justify-content: space-around;
+    align-items: center;
+}

@@ -1,0 +1,15 @@
+﻿@page
+@model MyApp.Namespace.IzmeniStudentaModel
+@{
+}
+
+<form method="post">
+    <input type="hidden" asp-for="student.Id">
+    <div asp-validation-summary="ModelOnly" class="danger"></div>
+
+    <div>Indeks: <input asp-for="student.Indeks" /></div>
+    <div>Ime: <input asp-for="student.Ime" /></div>
+    <div>Prezime: <input asp-for="student.Prezime" /></div>
+
+    <input type="submit" value="Snimi">
+</form>

@@ -1,0 +1,53 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<h1>APOTEKE</h1>
+
+<a asp-page="./DodajApoteku"> Dodaj Apoteku</a>
+
+@if(Model.Apoteke.Count!=0){
+
+   @foreach ( var apoteke in @Model.Apoteke)
+   {
+       <label> Apoteka : @apoteke.NazivApoteke</label>
+
+       <form>
+           <a asp-page="./DodajLek" asp-route-id="@apoteke.Id"> Dodaj Lek</a>
+
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Reg Broj</th>
+                        <th>Naziv leka</th>
+                        <th>Cena</th>
+                        <th>Kolicina</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+
+                    @foreach (var lekic in apoteke.Lekovi)
+                    {
+                        <tr>
+                            <td> @lekic.RegBroj</td>
+                            <td>@lekic.NazivLeka</td>
+                            <td>@lekic.Cena</td>
+                            <td>@lekic.Kolicina</td>
+
+                            <td><button type="submit" asp-route-id="@lekic.Id" asp-page-handler="Povecaj">+</button></td>
+                            <td><button type="submit" asp-route-id="@lekic.Id" asp-page-handler="Smanji">-</button></td>
+                            <td><button type="submit" asp-route-id="@lekic.Id" asp-page-handler="ObrisiLek">Obrisi lek</button></td>
+
+                            <td><a asp-page="./IzmeniLek" asp-route-id="@lekic.Id">Izmeni lek</a> </td>
+                       
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+       </form>
+   }
+}

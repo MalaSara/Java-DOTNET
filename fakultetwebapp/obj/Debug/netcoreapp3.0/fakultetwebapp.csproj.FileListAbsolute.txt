@@ -1,0 +1,116 @@
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.csprojAssemblyReference.cache
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\staticwebassets\fakultetwebapp.StaticWebAssets.Manifest.cache
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\staticwebassets\fakultetwebapp.StaticWebAssets.xml
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.MvcApplicationPartsAssemblyInfo.cache
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.RazorAssemblyInfo.cache
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.RazorAssemblyInfo.cs
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.AssemblyInfoInputs.cache
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.AssemblyInfo.cs
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\appsettings.json
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\fakultetwebapp.exe
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\fakultetwebapp.deps.json
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\fakultetwebapp.runtimeconfig.json
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\fakultetwebapp.runtimeconfig.dev.json
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\fakultetwebapp.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\fakultetwebapp.pdb
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\fakultetwebapp.Views.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\fakultetwebapp.Views.pdb
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.TagHelpers.input.cache
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.TagHelpers.output.cache
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.RazorCoreGenerate.cache
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.RazorTargetAssemblyInfo.cache
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.RazorTargetAssemblyInfo.cs
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.Views.pdb
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.csproj.CopyComplete
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.dll
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.pdb
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\Razor\Pages\DodajFakultet.cshtml.g.cs
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\Razor\Pages\DodajStudenta.cshtml.g.cs
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\Razor\Pages\IzmeniStudenta.cshtml.g.cs
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.csproj.CoreCompileInputs.cache
+D:\FAKS\5.SEMESTAR\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.genruntimeconfig.cache
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\appsettings.json
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\fakultetwebapp.exe
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\fakultetwebapp.deps.json
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\fakultetwebapp.runtimeconfig.json
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\fakultetwebapp.runtimeconfig.dev.json
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\fakultetwebapp.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\fakultetwebapp.pdb
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\fakultetwebapp.Views.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\fakultetwebapp.Views.pdb
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.csprojAssemblyReference.cache
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.AssemblyInfoInputs.cache
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.AssemblyInfo.cs
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.csproj.CoreCompileInputs.cache
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.MvcApplicationPartsAssemblyInfo.cache
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.RazorAssemblyInfo.cache
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.RazorAssemblyInfo.cs
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.TagHelpers.input.cache
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.TagHelpers.output.cache
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.RazorCoreGenerate.cache
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\Razor\Pages\DodajFakultet.cshtml.g.cs
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\Razor\Pages\DodajStudenta.cshtml.g.cs
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\Razor\Pages\IzmeniStudenta.cshtml.g.cs
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.RazorTargetAssemblyInfo.cache
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.RazorTargetAssemblyInfo.cs
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.Views.pdb
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.csproj.CopyComplete
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\staticwebassets\fakultetwebapp.StaticWebAssets.Manifest.cache
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\staticwebassets\fakultetwebapp.StaticWebAssets.xml
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.dll
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.pdb
+D:\FAKS\5.SEMESTAR\P O L O Z E N O\WEB PROGRAMIRANJE\SARA\fakultetwebapp\obj\Debug\netcoreapp3.0\fakultetwebapp.genruntimeconfig.cache
